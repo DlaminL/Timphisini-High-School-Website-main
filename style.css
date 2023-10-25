@@ -577,7 +577,7 @@ button:active{top:1px;}
   height: 100vh;
   box-sizing: border-box;
   overflow: hidden;
-  background: url("schoolgate2.jpg") no-repeat;
+  background: url("school\ hall.jpg") no-repeat;
   background-size: cover;
   border-bottom-left-radius: -50%;
   border-bottom-right-radius: 40%;
